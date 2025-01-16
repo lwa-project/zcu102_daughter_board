@@ -1,0 +1,7 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,Mount_Type
+"C1, C2",2,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1206,CL31B104KBCNFNC,smt
+"J1, J2, J4, J5",4,Samtec_ASP-134488-01,ASP-134488-01,ASP-134488-01,ASP-134488-01,smt
+J3,1,Conn_02x12_Odd_Even,IDC-Header_2x12_P2.54mm_Latch_Vertical,,302-S241,tht
+J6,1,Conn_02x06_Odd_Even,IDC-Header_2x06_P2.54mm_Vertical,,BHR-12-VUA,tht
+"J7, J8",2,Samtec_ASP-134486-01,Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical,,Do not populate,smt
+U1,1,SN74LVC2T45DCUR,VSSOP-8_2.4x2.1mm_P0.5mm,8-VFSOP,SN74LVC2T45DCUR,smt

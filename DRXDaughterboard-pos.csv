@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Layer,Rotation
+J7,Samtec_ASP-134486-01,Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical,131.074,-54.61,top,180
+J8,Samtec_ASP-134486-01,Samtec_FMC_ASP-134486-01_10x40_P1.27mm_Vertical,209.69,-54.61,top,180
+J1,Samtec_ASP-134488-01,ASP-134488-01,135.381,-92.71,bottom,0
+J4,Samtec_ASP-134488-01,ASP-134488-01,205.383,-92.71,bottom,0
