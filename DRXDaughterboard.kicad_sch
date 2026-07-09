@@ -4,6 +4,13 @@
 	(generator_version "8.0")
 	(uuid "c166a852-b94d-4065-ad60-8d292740e659")
 	(paper "A1")
+	(title_block
+		(title "ZCU102 Daughter Board")
+		(date "2026-07-07")
+		(rev "2.0")
+		(company "University of New Mexico")
+		(comment 1 "Long Wavelength Array")
+	)
 	(lib_symbols
 		(symbol "Connector:Samtec_ASP-134486-01"
 			(pin_names
@@ -60406,7 +60413,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "05472b10-b883-4864-89de-4d279dbd8f8d")
 		(property "Reference" "J8"
@@ -61745,7 +61752,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "0c21d37c-3c71-4cda-92d6-ee7269daeaa5")
 		(property "Reference" "J7"
@@ -68374,7 +68381,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "1b90b92e-7696-4a4b-aaf9-afc718814ac8")
 		(property "Reference" "J8"
@@ -69779,7 +69786,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "215832e0-e4e4-438b-b058-6a325652e486")
 		(property "Reference" "J7"
@@ -71052,7 +71059,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "21f9a0cc-add2-4976-b323-92b3ccc9e17f")
 		(property "Reference" "J7"
@@ -75427,7 +75434,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.kingbrightusa.com/images/catalog/SPEC/APT3216LVBC-D.pdf"
 			(at 375.92 120.65 0)
 			(effects
 				(font
@@ -75436,7 +75443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Kingbrite APTD3216LCGCK"
+		(property "Description" "Kingbright APT3216LVBC/D (LED BLUE CLEAR 2SMD)"
 			(at 375.92 120.65 0)
 			(effects
 				(font
@@ -77070,7 +77077,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "32f5d075-221a-472f-95bc-f9970f8917e5")
 		(property "Reference" "J8"
@@ -78343,7 +78350,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "335c6102-4b3c-42fc-8b4b-5829e4bfd01c")
 		(property "Reference" "J7"
@@ -79655,7 +79662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TI SN74LVC2T45DCUR"
 			(at 408.94 45.72 0)
 			(effects
 				(font
@@ -81043,7 +81050,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "377ce80f-e33a-4b56-9330-62ab592e4757")
 		(property "Reference" "J7"
@@ -85128,7 +85135,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3dbf5f5b-e407-4fda-902e-6b5d3a7f5254")
 		(property "Reference" "J7"
@@ -90616,7 +90623,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "4be68813-1d85-4e09-b4cf-72a8ae992612")
 		(property "Reference" "J7"
@@ -94633,7 +94640,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "58f6a701-8c83-4ec6-8d45-e2fc35c10f27")
 		(property "Reference" "J8"
@@ -97641,7 +97648,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "64d6b8f0-46d3-407a-8089-4b1db2b14e53")
 		(property "Reference" "J8"
@@ -99046,7 +99053,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6999ea7f-6d92-472c-972e-0ce8caee457f")
 		(property "Reference" "J8"
@@ -102252,7 +102259,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7609dbee-12b1-4b0b-ac7b-95bc0f4b9091")
 		(property "Reference" "J7"
@@ -105128,7 +105135,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "89c01d42-39bb-4e9a-abf3-c1053ea688f5")
 		(property "Reference" "J8"
@@ -111691,7 +111698,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "94c7433a-b3b9-42ad-8820-5cb68c1ccf73")
 		(property "Reference" "J8"
@@ -114463,7 +114470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 368.3 120.65 0)
 			(effects
 				(font
@@ -114472,7 +114479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Yaego RC0805FR-07324RL"
+		(property "Description" "Yageo RC0805FR-07324RL (RES 324 OHM 1% 1/8W 0805)"
 			(at 368.3 120.65 0)
 			(effects
 				(font
@@ -114701,7 +114708,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9d797049-ce43-49da-a26e-073a946b3a72")
 		(property "Reference" "J8"
@@ -116172,7 +116179,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a0ba380a-830b-4a78-a499-48e6f66f1a60")
 		(property "Reference" "J7"
@@ -118916,7 +118923,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ab9e3f43-48b0-4f24-948a-b3ec3f656240")
 		(property "Reference" "J7"
@@ -120287,7 +120294,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ad7bd6db-003d-413d-a085-c075c4a6af36")
 		(property "Reference" "J8"
@@ -131160,7 +131167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_2512.pdf"
 			(at 416.56 31.75 0)
 			(effects
 				(font
@@ -131169,7 +131176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Samsung CL31B104KBCNFNC (CAP 100nF 1206)"
 			(at 416.56 31.75 0)
 			(effects
 				(font
@@ -142468,7 +142475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.samsungsem.com/resources/file/global/support/product_catalog/MLCC_2512.pdf"
 			(at 401.32 31.75 0)
 			(effects
 				(font
@@ -142477,7 +142484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Samsaung CL31B104KBCNFNC (CAP 100nF 1206)"
 			(at 401.32 31.75 0)
 			(effects
 				(font
